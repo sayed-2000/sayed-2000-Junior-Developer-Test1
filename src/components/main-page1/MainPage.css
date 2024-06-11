@@ -141,7 +141,7 @@
 
 .main__s  .itme__action {
     display: flex;
-    width: 100%;
+    /* width: 100%; */
     background-color: #ffffff;
     justify-content: space-around;
     margin-bottom: 10px;
